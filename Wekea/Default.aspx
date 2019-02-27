@@ -20,13 +20,12 @@
             </div>
             <div class="row">
                 <div class="col-sm-10">
-                    <asp:Button ID="btnManage" runat="server" Text="Manage" />
+                </div>
+                <div class="col-sm-1">
                 </div>
                 <div class="col-sm-1">
                     <asp:Button ID="btnCart" runat="server" Text="Cart" />
-                </div>
-                <div class="col-sm-1">
-                    <asp:Button ID="btnLogon" runat="server" Text="Log on" />
+                &nbsp;<asp:Button ID="btnLogon" runat="server" Text="Login" />
                 </div>
             </div>
             <div class="row">
