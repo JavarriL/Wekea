@@ -3,3 +3,8 @@
 ################################################################################
 
 *.cache
+/.vs/Wekea1/v15/.suo
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/slnx.sqlite-journal
+/.vs/VSWorkspaceState.json
